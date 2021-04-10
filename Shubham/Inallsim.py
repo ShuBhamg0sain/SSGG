@@ -182,7 +182,7 @@ def action():
                 print "\033[1;91mrun allsim by python2 S.py"
                 
         elif bch =="5":
-                os.system('xdg-open https://chat.whatsapp.com/JyqQKyXuw3f43Ll90pHSMO')
+                os.system('xdg-open https://www.instagram.com/shubham_g0sai')
                 print "\033[1;91mrun allsim by python2 S.py"
                 
         elif bch =="6":
